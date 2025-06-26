@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CustomerSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CustomerSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomerSystem.dll": {}
+        }
+      },
+      "OrderSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CustomerSystem": "1.0.0",
+          "Products": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OrderSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderSystem.dll": {}
+        }
+      },
+      "PaymentSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CustomerSystem": "1.0.0",
+          "OrderSystem": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PaymentSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PaymentSystem.dll": {}
+        }
+      },
+      "Products/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Products.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Products.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomerSystem/1.0.0": {
+      "type": "project",
+      "path": "../Customers/CustomerSystem.csproj",
+      "msbuildProject": "../Customers/CustomerSystem.csproj"
+    },
+    "OrderSystem/1.0.0": {
+      "type": "project",
+      "path": "../Order/OrderSystem.csproj",
+      "msbuildProject": "../Order/OrderSystem.csproj"
+    },
+    "PaymentSystem/1.0.0": {
+      "type": "project",
+      "path": "../Payment/PaymentSystem.csproj",
+      "msbuildProject": "../Payment/PaymentSystem.csproj"
+    },
+    "Products/1.0.0": {
+      "type": "project",
+      "path": "../Products/Products.csproj",
+      "msbuildProject": "../Products/Products.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CustomerSystem >= 1.0.0",
+      "OrderSystem >= 1.0.0",
+      "PaymentSystem >= 1.0.0",
+      "Products >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\abdoe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Sales  Order Application\\Sales Order Application.csproj",
+      "projectName": "Sales Order Application",
+      "projectPath": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Sales  Order Application\\Sales Order Application.csproj",
+      "packagesPath": "C:\\Users\\abdoe\\.nuget\\packages\\",
+      "outputPath": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Sales  Order Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\abdoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Customers\\CustomerSystem.csproj": {
+              "projectPath": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Customers\\CustomerSystem.csproj"
+            },
+            "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Order\\OrderSystem.csproj": {
+              "projectPath": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Order\\OrderSystem.csproj"
+            },
+            "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Payment\\PaymentSystem.csproj": {
+              "projectPath": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Payment\\PaymentSystem.csproj"
+            },
+            "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Products\\Products.csproj": {
+              "projectPath": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Products\\Products.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

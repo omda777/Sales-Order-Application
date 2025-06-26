@@ -1,0 +1,18 @@
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\bin\Debug\net8.0\Sales Order Application.deps.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\bin\Debug\net8.0\Sales Order Application.runtimeconfig.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\bin\Debug\net8.0\Sales Order Application.exe
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\bin\Debug\net8.0\Customers.deps.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\bin\Debug\net8.0\Customers.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\bin\Debug\net8.0\Customers.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\bin\Debug\net8.0\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\bin\Debug\net8.0\Sales Order Application.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\Customers.csproj.AssemblyReference.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\Customers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\Customers.AssemblyInfoInputs.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\Customers.AssemblyInfo.cs
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\Customers.csproj.CoreCompileInputs.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\Customers.csproj.Up2Date
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\Customers.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\refint\Customers.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\Customers.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Customers\obj\Debug\net8.0\ref\Customers.dll

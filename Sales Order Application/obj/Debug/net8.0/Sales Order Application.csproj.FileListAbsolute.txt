@@ -1,0 +1,38 @@
+D:\Career\Web Development\Projects_web\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.exe
+D:\Career\Web Development\Projects_web\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.deps.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.runtimeconfig.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Web Development\Projects_web\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.AssemblyInfoInputs.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.AssemblyInfo.cs
+D:\Career\Web Development\Projects_web\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.csproj.CoreCompileInputs.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\obj\Debug\net8.0\refint\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.genruntimeconfig.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\obj\Debug\net8.0\ref\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.exe
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.deps.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.runtimeconfig.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\Sales Order Application.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.AssemblyInfoInputs.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.AssemblyInfo.cs
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.csproj.CoreCompileInputs.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\refint\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.genruntimeconfig.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\ref\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\Sales Order Application.csproj.AssemblyReference.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\CustomerSystem.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\OrderSystem.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\PaymentSystem.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\Products.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\CustomerSystem.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\OrderSystem.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\Products.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\bin\Debug\net8.0\PaymentSystem.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Sales  Order Application\obj\Debug\net8.0\Sales Or.CDBB2098.Up2Date

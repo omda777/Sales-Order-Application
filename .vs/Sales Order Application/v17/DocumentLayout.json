@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8793CE20-C190-4494-A305-0328D8969FD3}|Sales  Order Application\\Sales Order Application.csproj|d:\\career\\web development\\projects_web\\sales  order application\\sales  order application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8793CE20-C190-4494-A305-0328D8969FD3}|Sales  Order Application\\Sales Order Application.csproj|solutionrelative:sales  order application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33EAB0C-28D4-492A-A8F3-7AE0B2B51BA3}|Order\\OrderSystem.csproj|d:\\career\\web development\\projects_web\\sales  order application\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33EAB0C-28D4-492A-A8F3-7AE0B2B51BA3}|Order\\OrderSystem.csproj|solutionrelative:order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33EAB0C-28D4-492A-A8F3-7AE0B2B51BA3}|Order\\OrderSystem.csproj|d:\\career\\web development\\projects_web\\sales  order application\\order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33EAB0C-28D4-492A-A8F3-7AE0B2B51BA3}|Order\\OrderSystem.csproj|solutionrelative:order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A049FB8D-1CC4-47E9-9237-10EEE04CCA19}|Payment\\PaymentSystem.csproj|d:\\career\\web development\\projects_web\\sales  order application\\payment\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A049FB8D-1CC4-47E9-9237-10EEE04CCA19}|Payment\\PaymentSystem.csproj|solutionrelative:payment\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A049FB8D-1CC4-47E9-9237-10EEE04CCA19}|Payment\\PaymentSystem.csproj|d:\\career\\web development\\projects_web\\sales  order application\\payment\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A049FB8D-1CC4-47E9-9237-10EEE04CCA19}|Payment\\PaymentSystem.csproj|solutionrelative:payment\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40DEF87-5CF3-4812-9531-FE161F321889}|Products\\Products.csproj|d:\\career\\web development\\projects_web\\sales  order application\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40DEF87-5CF3-4812-9531-FE161F321889}|Products\\Products.csproj|solutionrelative:products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40DEF87-5CF3-4812-9531-FE161F321889}|Products\\Products.csproj|d:\\career\\web development\\projects_web\\sales  order application\\products\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40DEF87-5CF3-4812-9531-FE161F321889}|Products\\Products.csproj|solutionrelative:products\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6C07B6-02E8-4E45-A485-4BFA25F714A4}|Customers\\CustomerSystem.csproj|d:\\career\\web development\\projects_web\\sales  order application\\customers\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6C07B6-02E8-4E45-A485-4BFA25F714A4}|Customers\\CustomerSystem.csproj|solutionrelative:customers\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6C07B6-02E8-4E45-A485-4BFA25F714A4}|Customers\\CustomerSystem.csproj|d:\\career\\web development\\projects_web\\sales  order application\\customers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6C07B6-02E8-4E45-A485-4BFA25F714A4}|Customers\\CustomerSystem.csproj|solutionrelative:customers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6C07B6-02E8-4E45-A485-4BFA25F714A4}|Customers\\CustomerSystem.csproj|d:\\career\\web development\\projects_web\\sales  order application\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6C07B6-02E8-4E45-A485-4BFA25F714A4}|Customers\\CustomerSystem.csproj|solutionrelative:customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Customers\\Person.cs",
+              "RelativeDocumentMoniker": "Customers\\Person.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Customers\\Person.cs",
+              "RelativeToolTip": "Customers\\Person.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:05:17.724Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Sales  Order Application\\Program.cs",
+              "RelativeDocumentMoniker": "Sales  Order Application\\Program.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Sales  Order Application\\Program.cs",
+              "RelativeToolTip": "Sales  Order Application\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwIoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:05:03.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Customers\\Customers.cs",
+              "RelativeDocumentMoniker": "Customers\\Customers.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Customers\\Customers.cs",
+              "RelativeToolTip": "Customers\\Customers.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:05:16.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Payment\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment\\Payment.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Payment\\Payment.cs",
+              "RelativeToolTip": "Payment\\Payment.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA4wDMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:03:35.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Payment\\Transaction.cs",
+              "RelativeDocumentMoniker": "Payment\\Transaction.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Payment\\Transaction.cs",
+              "RelativeToolTip": "Payment\\Transaction.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:18:07.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Customers\\Customer.cs",
+              "RelativeDocumentMoniker": "Customers\\Customer.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Customers\\Customer.cs",
+              "RelativeToolTip": "Customers\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:05:15.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "Products\\Product.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Products\\Product.cs",
+              "RelativeToolTip": "Products\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:57:00.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Products\\Stock.cs",
+              "RelativeDocumentMoniker": "Products\\Stock.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Products\\Stock.cs",
+              "RelativeToolTip": "Products\\Stock.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA9wEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:58:10.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Order\\Order.cs",
+              "RelativeDocumentMoniker": "Order\\Order.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Order\\Order.cs",
+              "RelativeToolTip": "Order\\Order.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:05:11.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Order\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Order\\OrderItem.cs",
+              "ToolTip": "D:\\Career\\Web Development\\Projects_web\\Sales  Order Application\\Order\\OrderItem.cs",
+              "RelativeToolTip": "Order\\OrderItem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwEoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:05:12.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

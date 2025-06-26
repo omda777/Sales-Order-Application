@@ -1,0 +1,89 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sales Order Application/1.0.0": {
+        "dependencies": {
+          "CustomerSystem": "1.0.0",
+          "OrderSystem": "1.0.0",
+          "PaymentSystem": "1.0.0",
+          "Products": "1.0.0"
+        },
+        "runtime": {
+          "Sales Order Application.dll": {}
+        }
+      },
+      "CustomerSystem/1.0.0": {
+        "runtime": {
+          "CustomerSystem.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OrderSystem/1.0.0": {
+        "dependencies": {
+          "CustomerSystem": "1.0.0",
+          "Products": "1.0.0"
+        },
+        "runtime": {
+          "OrderSystem.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PaymentSystem/1.0.0": {
+        "dependencies": {
+          "CustomerSystem": "1.0.0",
+          "OrderSystem": "1.0.0"
+        },
+        "runtime": {
+          "PaymentSystem.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Products/1.0.0": {
+        "runtime": {
+          "Products.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sales Order Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Products/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

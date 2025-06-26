@@ -1,0 +1,20 @@
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Sales Order Application.deps.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Sales Order Application.runtimeconfig.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Sales Order Application.exe
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Orders.deps.json
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Orders.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Orders.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Customers.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Sales Order Application.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Customers.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\bin\Debug\net8.0\Sales Order Application.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\Orders.csproj.AssemblyReference.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\Orders.AssemblyInfoInputs.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\Orders.AssemblyInfo.cs
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\Orders.csproj.CoreCompileInputs.cache
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\Orders.csproj.Up2Date
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\Orders.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\refint\Orders.dll
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\Orders.pdb
+D:\Career\Web Development\Projects_web\Sales  Order Application\Order\obj\Debug\net8.0\ref\Orders.dll
