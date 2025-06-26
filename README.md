@@ -6,27 +6,17 @@ The **Sales Order System** is a console-based C# application built for an Object
 ---
 
 ## 🚀 Features
-- 👤 **Customer Management**  
-  Add, update, and delete customers (ID, name, address, phone).
-
-- 📦 **Product & Stock Management**  
-  Add, update, and delete products (ID, number, name, price, quantity, type).
-
-- 🧾 **Order Management**  
-  Create and manage orders with status tracking (`New`, `Hold`, `Paid`, `Canceled`).
-
-- ➕ **Order Item Operations**  
-  Operator overloading for adjusting order quantities: `++`, `--`, `+=`, `-=`.
-
-- 💰 **Payment Processing**  
-  Supports **cash**, **credit**, and **check** payment types.
-
-- 🔄 **Transaction Tracking**  
-  Record transactions linking payments with orders.
-
-- 🧾 **Reports**  
-  Print reports: customer list, stock data, and transaction history.
-
+- ### Data Entry:
+- Add, update, and delete customer records.
+- Add, update, and delete products in stock.
+- ### Sales Process:
+- Add transactions.
+- Update orders.
+- Process payments.
+- ### Print:
+- Print customer details.
+- Print stock inventory.
+- Print transaction records.
 ---
 
 ##  Project Structure
