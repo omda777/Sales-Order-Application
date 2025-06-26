@@ -1,25 +1,26 @@
-# 🛒 Sales Order System
+# Sales Order Management System
 
-## 📖 Overview
+##  Overview
 The **Sales Order System** is a console-based C# application built for an Object-Oriented Programming (OOP) assignment. It simulates a retail sales workflow, allowing users to manage customers, stock, orders, and payments. It follows core OOP principles such as abstraction, encapsulation, inheritance, and polymorphism, and utilizes features like operator overloading and class hierarchies.
 
 ---
 
 ## 🚀 Features
-- ### Data Entry:
+### Data Entry:
 - Add, update, and delete customer records.
 - Add, update, and delete products in stock.
-- ### Sales Process:
+### Sales Process:
 - Add transactions.
 - Update orders.
 - Process payments.
-- ### Print:
+### Print:
 - Print customer details.
 - Print stock inventory.
 - Print transaction records.
 ---
 
 ##  Project Structure
+
 Sales_Order_Application/
 │
 ├── CustomerSystem/
