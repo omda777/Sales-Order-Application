@@ -20,27 +20,33 @@ The **Sales Order System** is a console-based C# application built for an Object
 ---
 
 ##  Project Structure
-
-Sales_Order_Application/
-│
-├── CustomerSystem/
-│ ├── Person.cs # Base class: name, address, age
-│ ├── Customer.cs # Extends Person with ID, phone
-│ └── Customers.cs # Customer list and operations
-│
-├── Products/
-│ ├── Product.cs # Product definition and methods
-│ └── Stock.cs # List of products with stock control
-│
-├── OrderSystem/
-│ ├── Order.cs # Order header: number, date, status, customer, items
-│ └── OrderItem.cs # Line item details with quantity operations
-│
-├── PaymentSystem/
-│ ├── Payment.cs # Abstract base for all payments
-│ └── Transaction.cs # Links payments and orders
-│
-└── Program.cs # Main menu and user interaction.
+The project is organized into the following namespaces and key files:
+- **CustomerSystem**:
+  - `Person.cs`: Base class for customer details (name, address, age).
+  - `Customer.cs`: Extends `Person` with ID and phone.
+  - `Customers.cs`: Manages a list of customers with add, update, and delete operations.
+- **Products**:
+  - `Product.cs`: Defines product details and update methods.
+  - `Stock.cs`: Manages a list of products with add, update, and delete operations.
+- **OrderSystem**:
+  - `Order.cs`: Manages orders with order number, date, status, customer, and items.
+  - `OrderItem.cs`: Represents items in an order with quantity adjustments and operator overloading.
+- **PaymentSystem**:
+  - `Payment.cs`: Abstract base class for payments (cash, credit, check).
+  - `Transaction.cs`: Links orders with payments and manages transaction records.
+- **Sales_Order_Application**:
+  - `Program.cs`: Main entry point with a console-based menu for user interaction.
 
 ## UML Digram 
 ![System Diagram](Photo/UML.png)
+
+## Setup Instructions
+1. **Prerequisites**:
+   - .NET SDK (version 6.0 or later recommended).
+   - A C# IDE (e.g., Visual Studio, Visual Studio Code, or Rider).
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Omda777/sales-order-system.git
+   cd sales-order-system
+   ```
+
