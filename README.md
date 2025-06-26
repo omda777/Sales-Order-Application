@@ -49,6 +49,7 @@ Sales_Order_Application/
 │ ├── Payment.cs # Abstract base for all payments
 │ └── Transaction.cs # Links payments and orders
 │
-└── Program.cs # Main menu and user interaction
+└── Program.cs # Main menu and user interaction.
+
 ## UML Digram 
-![System Diagram](Photo/UML)
+![System Diagram](Photo/UML.png)
