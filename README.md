@@ -1,7 +1,7 @@
 # Sales Order Management System
 
 ##  Overview
-The **Sales Order System** is a console-based C# application built for an Object-Oriented Programming (OOP) assignment. It simulates a retail sales workflow, allowing users to manage customers, stock, orders, and payments. It follows core OOP principles such as abstraction, encapsulation, inheritance, and polymorphism, and utilizes features like operator overloading and class hierarchies.
+The **Sales Order System** is a console-based C# application built for an Object-Oriented Programming (OOP). It simulates a retail sales workflow, allowing users to manage customers, stock, orders, and payments. It follows core OOP principles such as abstraction, encapsulation, inheritance, and polymorphism, and utilizes features like operator overloading and class hierarchies.
 
 ---
 
